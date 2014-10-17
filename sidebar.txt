@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vko:home|Door43 (vko)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vko|d43-vko repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vko/archive/master.zip|d43-vko.zip]]
+
+**Recent Changes**
+{{changes>ns = vko}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vko|Ethnologue data]]
+
